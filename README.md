@@ -1,24 +1,24 @@
 MEAN stack Login page
 
-This project has been created by Badea khabloos
+This project has been created by Badea khabloos.
 
-Mpve the 'src' file into the frontend
+extract the 'src.rar' file into the frontend file.
 
-To start the app
+To start the app:
 
-First open the terminal 
+First open the terminal,
 
-Type 'cd Frontend'
-Then type 'npm install'
-then type 'ng serve' to start the app
+Type 'cd Frontend';
+Then type 'npm install';
+then type 'ng serve' to start the app.
 
-Second
+Second,
 
-open new terminal and type 'cd backend'
+open new terminal and type 'cd backend'.
 
-Then type 'npm install'
+Then type 'npm install'.
 
-after type 'node app.js
+after type 'node app.js.
 
 mongodb connect url = 'mongodb://localhost:27017/MEANStackDB'
 
