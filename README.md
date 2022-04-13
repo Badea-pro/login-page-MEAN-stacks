@@ -2,7 +2,7 @@ MEAN stack Login page
 
 This project has been created by Badea khabloos.
 
-extract the 'src.rar' file into the frontend file.
+Extract the 'src.rar' file into the frontend file.
 
 To start the app:
 
